@@ -79,7 +79,7 @@ export default {
 
 <style>
 
-body{
+body {
     background: rgb(0,128,96);
     background: linear-gradient(0deg, rgba(0,128,96,1) 0%, rgba(0,153,115,1) 25%, rgba(0,204,153,1) 100%) no-repeat; 
     height:100%;
